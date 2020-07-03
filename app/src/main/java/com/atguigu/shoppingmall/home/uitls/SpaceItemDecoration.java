@@ -4,12 +4,6 @@ import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-/**
- * 作者：尚硅谷-杨光福 on 2016/11/13 09:12
- * 微信：yangguangfu520
- * QQ号：541433511
- * 作用：xxxx
- */
 public class SpaceItemDecoration extends RecyclerView.ItemDecoration {
 
     private int space;

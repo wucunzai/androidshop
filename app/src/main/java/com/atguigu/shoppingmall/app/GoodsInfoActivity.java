@@ -68,7 +68,6 @@ public class GoodsInfoActivity extends Activity implements View.OnClickListener 
     /**
      * Find the Views in the layout<br />
      * <br />
-     * Auto-created on 2016-10-09 01:34:23 by Android Layout Finder
      * (http://www.buzzingandroid.com/tools/android-layout-finder)
      */
     private void findViews() {
@@ -114,7 +113,6 @@ public class GoodsInfoActivity extends Activity implements View.OnClickListener 
     /**
      * Handle button click events<br />
      * <br />
-     * Auto-created on 2016-10-09 01:34:23 by Android Layout Finder
      * (http://www.buzzingandroid.com/tools/android-layout-finder)
      */
     @Override

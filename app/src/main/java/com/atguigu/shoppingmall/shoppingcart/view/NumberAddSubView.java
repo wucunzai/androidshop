@@ -14,9 +14,6 @@ import android.widget.TextView;
 import com.atguigu.shoppingmall.R;
 
 
-/**
- * Created by Administrator on 2016/8/31.
- */
 public class NumberAddSubView extends LinearLayout implements View.OnClickListener {
     private ImageView btn_sub;
     private ImageView btn_add;

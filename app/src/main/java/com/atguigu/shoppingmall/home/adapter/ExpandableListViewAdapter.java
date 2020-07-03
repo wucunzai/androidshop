@@ -16,9 +16,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * Created by Administrator on 2016/10/9.
- */
 public class ExpandableListViewAdapter extends BaseExpandableListAdapter {
     private Context context;
     private List<String> group;

@@ -17,9 +17,6 @@ import com.bumptech.glide.Glide;
 import java.util.List;
 
 
-/**
- * Created by Administrator on 2016/9/29.
- */
 public class SeckillRecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private Context mContext;

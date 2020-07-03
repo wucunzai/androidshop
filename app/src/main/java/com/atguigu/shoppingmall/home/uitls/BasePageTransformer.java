@@ -5,9 +5,6 @@ import android.os.Build;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
-/**
- * Created by zhy on 16/5/7.
- */
 public abstract class BasePageTransformer implements ViewPager.PageTransformer {
 
     protected ViewPager.PageTransformer mPageTransformer = NonPageTransformer.INSTANCE;

@@ -9,9 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * 作者：尚硅谷-杨光福 on 2016/11/13 15:16
- * 微信：yangguangfu520
- * QQ号：541433511
  * 作用：BaseFragment
  */
 public abstract class BaseFragment extends Fragment {

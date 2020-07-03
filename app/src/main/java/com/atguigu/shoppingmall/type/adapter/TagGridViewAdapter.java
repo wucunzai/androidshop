@@ -15,9 +15,6 @@ import java.util.List;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
-/**
- * Created by Administrator on 2016/10/2.
- */
 public class TagGridViewAdapter extends BaseAdapter {
     private Context mContext;
     private List<TagBean.ResultBean> result;

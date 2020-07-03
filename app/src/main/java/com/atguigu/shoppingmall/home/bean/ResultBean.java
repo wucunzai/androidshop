@@ -4,9 +4,6 @@ import com.alibaba.fastjson.JSONObject;
 
 import java.util.List;
 
-/**
- * Created by Administrator on 2016/9/28.
- */
 public class ResultBean extends JSONObject {
 
     private SeckillInfoBean seckill_info;

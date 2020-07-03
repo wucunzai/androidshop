@@ -15,9 +15,6 @@ import com.bumptech.glide.Glide;
 
 import java.util.List;
 
-/**
- * Created by Administrator on 2016/10/12.
- */
 public class GoodsListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private Context mContext;

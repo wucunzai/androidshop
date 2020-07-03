@@ -10,9 +10,6 @@ import android.widget.TextView;
 import com.atguigu.shoppingmall.R;
 
 
-/**
- * Created by Administrator on 2016/10/3.
- */
 public class TypeLeftAdapter extends BaseAdapter {
     private Context mContext;
     private int mSelect = 0;//选中项

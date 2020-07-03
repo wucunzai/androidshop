@@ -3,7 +3,6 @@ package com.atguigu.shoppingmall.home.bean;
 import java.io.Serializable;
 
 /**
- * Created by Administrator on 2016/10/9.
  * child商品类
  */
 public class GoodsBean implements Serializable {

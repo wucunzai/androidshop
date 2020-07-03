@@ -17,9 +17,6 @@ import java.util.List;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
-/**
- * Created by Administrator on 2016/9/29.
- */
 public class RecommendGridViewAdapter extends BaseAdapter {
     private Context mContext;
     private List<ResultBean.RecommendInfoBean> data;

@@ -7,9 +7,6 @@ import android.view.WindowManager;
 
 import java.lang.reflect.Method;
 
-/**
- * Created by Administrator on 2016/11/13.
- */
 // 获取虚拟键盘的高度
 public class VirtualkeyboardHeight {
 
